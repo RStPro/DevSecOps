@@ -8,7 +8,7 @@ The Software Development Life Cycle provides the guidance required to create a s
 
 The set of phases are:
 
-![[Pasted image 20250517204828.png]]
+![[Pasted image 20250525105601.png]]
 
 - **Planning**: The planning phase encompasses all aspects of project and product management. This includes resource allocation, project scheduling, cost estimation etc.
 - **Requirements** **Definition**: is considered part of planning to determine what the application is supposed to do and its requirements. For example, a social media application would require the ability to connect with a friend.  

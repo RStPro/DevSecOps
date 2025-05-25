@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Secure Software Development/SSDLC/SSDLC Methodologies.md",
+                "file": "Notes/3 -Source Code Security/Insufficient Credential Hygiene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSDLC Methodologies"
+              "title": "Insufficient Credential Hygiene"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Secure Software Development/SSDLC/SSDLC Methodologies.md",
+                "file": "Notes/3 -Source Code Security/Insufficient Credential Hygiene.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SSDLC Methodologies"
+              "title": "Backlinks for Insufficient Credential Hygiene"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Secure Software Development/SSDLC/SSDLC Methodologies.md",
+                "file": "Notes/Pipeline Automation/Dependency Management.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SSDLC Methodologies"
+              "title": "Outgoing links from Dependency Management"
             }
           },
           {
@@ -142,24 +142,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Secure Software Development/SSDLC/SSDLC Methodologies.md",
+                "file": "Notes/3 -Source Code Security/Insufficient Credential Hygiene.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SSDLC Methodologies"
+              "title": "Outline of Insufficient Credential Hygiene"
+            }
+          },
+          {
+            "id": "07c283aa5bc351ef",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 407.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "chronology:Open Chronology": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -170,11 +182,40 @@
   },
   "active": "a56691e24363d31d",
   "lastOpenFiles": [
+    "Notes/3 -Source Code Security/Cloud Based Version Control.md",
+    "Notes/3 -Source Code Security/Insufficient Credential Hygiene.md",
+    "Notes/3 -Source Code Security/Version Control Concepts.md",
+    "Notes/2 -Pipeline Automation/Environments.md",
+    "Notes/3 -Source Code Security",
+    "Notes/2 -Pipeline Automation/Continuous Integration and Delivery.md",
+    "Notes/2 -Pipeline Automation/🔐 DevSecOps Pipeline Definition.md",
+    "Notes/1 -Secure Software Development/SSDLC/Threat Modelling.md",
+    "Notes/Pipeline Automation/Introduction.md",
+    "Notes/1 -Secure Software Development/SSDLC/SSDLC Methodologies.md",
+    "Notes/1 -Secure Software Development/SSDLC/Risk Assessment.md",
+    "Notes/1 -Secure Software Development/SSDLC/SSDLC Processes.md",
+    "Notes/1 -Secure Software Development/SDLC/SDLC Phases.md",
+    "Notes/1 -Secure Software Development/SDLC/DevOps Metrics.md",
+    "Notes/1 -Secure Software Development/SDLC/CALMS.md",
+    "Notes/1 -Secure Software Development/SDLC/What is Software Development Lifecycle (SDLC)?.md",
+    "Assets/Pasted image 20250525105601.png",
+    "Notes/1 -Secure Software Development/Introduction/How does DevOps work?.md",
+    "Notes/1 -Secure Software Development/Introduction/Shifting Left..md",
+    "Notes/1 -Secure Software Development/Introduction/Introduction.md",
+    "Assets/Pasted image 20250525105428.png",
+    "Assets/Pasted image 20250525103556.png",
     "Assets/Pasted image 20250520202750.png",
-    "Notes/Secure Software Development/SSDLC/Security Assessments.md",
-    "Notes/Secure Software Development/SSDLC/SSDLC Methodologies.md",
-    "Notes/Secure Software Development/SSDLC/Secure Coding.md",
-    "Notes/Secure Software Development/SSDLC/Risk Assessment.md",
-    "Notes/Secure Software Development/SSDLC/Threat Modelling.md"
+    "Assets/Pasted image 20250519204712.png",
+    "Assets/Pasted image 20250519202442.png",
+    "Assets/Pasted image 20250519201328.png",
+    "Assets/Pasted image 20250519200102.png",
+    "Notes/2 -Pipeline Automation/Automated Testing.md",
+    "Notes/2 -Pipeline Automation/Dependency Management.md",
+    "Notes/2 -Pipeline Automation/Source code and version control.md",
+    "Untitled.canvas",
+    "2025-05-25.md",
+    "Notes/2 -Pipeline Automation",
+    "Notes/1 -Secure Software Development/SSDLC/Security Assessments.md",
+    "Notes/1 -Secure Software Development/SSDLC/Secure Coding.md"
   ]
 }
