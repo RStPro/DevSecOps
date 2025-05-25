@@ -7,10 +7,12 @@ git clone <repository_url>
 ```
 
 It’s used to copy (clone) an existing repository (repo) at **another location** in a new directory (**repositories**).
-Local filesystems or remote machines accessible by supported protocols can host the original repository.
+Local file systems or remote machines accessible by supported protocols can host the original repository.
 Working copies of Git repositories have their history, manage their files, and are isolated from their source repositories.
 The repository you create on your computer contains all the files and directories of your project.
-You can think of a branch as different versions of your repository or as an independent development line.
+
+You can think of a branch as different versions of your repository or as an **independent development line**.
+
 Various versions of a repository can be contained in multiple **branches**.
 
 ```
