@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4 - Container Security/2 - Intro do Docker/4 - Intro to Docker Compose.md",
+                "file": "Notes/4 - Container Security/3 - Intro to Kubernetes/5 - Kubectl to the Rescue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Intro to Docker Compose"
+              "title": "5 - Kubectl to the Rescue"
             }
           }
         ]
@@ -166,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 416.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,21 +182,28 @@
   },
   "active": "98d422d934975649",
   "lastOpenFiles": [
-    "Assets/Pasted image 20250602165059.png",
-    "Assets/Pasted image 20250602164955.png",
-    "Assets/Pasted image 20250602164740.png",
-    "Notes/4 - Container Security/2 - Intro do Docker/3 -Intro to Dockerfiles.md",
-    "Notes/4 - Container Security/2 - Intro do Docker/4 - Intro to Docker Compose.md",
-    "Assets/Pasted image 20250602164528.png",
-    "Assets/Pasted image 20250602164504.png",
-    "Assets/Pasted image 20250602164438.png",
-    "Assets/Pasted image 20250602164400.png",
-    "Assets/Pasted image 20250602164145.png",
-    "Assets/Pasted image 20250602163903.png",
-    "Assets/Pasted image 20250602163808.png",
-    "Notes/4 - Container Security/2 - Intro do Docker/1 - Basic Docker Syntax.md",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/4 -Kubernetes Configuration.md",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/5 - Kubectl to the Rescue.md",
+    "Assets/Pasted image 20250602183542.png",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/3 -Kubernetes Landscape.md",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/2 -Kubernetes Architecture.md",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/1 -Kubernetes 101.md",
+    "Assets/Pasted image 20250602182113.png",
+    "Assets/Pasted image 20250602181951.png",
+    "Assets/Pasted image 20250602181756.png",
+    "Assets/Pasted image 20250602181042.png",
+    "Assets/Pasted image 20250602180940.png",
+    "Notes/4 - Container Security/2 - Intro do Docker/5 - Intro to the Docker Socket.md",
+    "Assets/Pasted image 20250602180651.png",
+    "Assets/Pasted image 20250602180111.png",
     "Notes/4 - Container Security/2 - Intro do Docker/2 - Running Your First Container.md",
-    "Assets/Pasted image 20250602163024.png",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/Untitled",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes",
+    "Notes/4 - Container Security/2 - Intro do Docker/3 -Intro to Dockerfiles.md",
+    "Notes/4 - Container Security/2 - Intro do Docker/1 - Basic Docker Syntax.md",
+    "Assets/Pasted image 20250602173213.png",
+    "Assets/Pasted image 20250602173141.png",
+    "Notes/4 - Container Security/2 - Intro do Docker/4 - Intro to Docker Compose.md",
     "Notes/4 - Container Security/1 - Intro to Containerisation/4 - How does Containerisation Work?.md",
     "Notes/4 - Container Security/2 - Intro do Docker",
     "Notes/4 - Container Security/1 - Intro to Containerisation/3 - Benefits & Features of Docker.md",
@@ -218,11 +226,6 @@
     "Notes/Pipeline Automation/Introduction.md",
     "Notes/1 -Secure Software Development/SSDLC/SSDLC Methodologies.md",
     "Notes/1 -Secure Software Development/SSDLC/Risk Assessment.md",
-    "Notes/1 -Secure Software Development/SSDLC/SSDLC Processes.md",
-    "Notes/1 -Secure Software Development/SDLC/SDLC Phases.md",
-    "Notes/1 -Secure Software Development/SDLC/DevOps Metrics.md",
-    "Notes/1 -Secure Software Development/SDLC/CALMS.md",
-    "Notes/1 -Secure Software Development/SDLC/What is Software Development Lifecycle (SDLC)?.md",
     "Untitled.canvas",
     "Notes/2 - Security of the Pipeline/1 -Pipeline Automation"
   ]
