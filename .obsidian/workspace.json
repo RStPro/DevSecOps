@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/4 - Container Security/3 - Intro to Kubernetes/5 - Kubectl to the Rescue.md",
+                "file": "Notes/4 - Container Security/3 - Intro to Kubernetes/7 - Hands-on with Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - Kubectl to the Rescue"
+              "title": "7 - Hands-on with Kubernetes"
             }
           }
         ]
@@ -180,29 +180,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98d422d934975649",
+  "active": "a014793eb4e46eaf",
   "lastOpenFiles": [
-    "Notes/4 - Container Security/3 - Intro to Kubernetes/4 -Kubernetes Configuration.md",
+    "Notes/4 - Container Security/4 - Container Vulnerabilities",
+    "Assets/Pasted image 20250602191449.png",
+    "Assets/Pasted image 20250602191420.png",
+    "Assets/Pasted image 20250602191342.png",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/6 -Kubernetes & DevSecOps.md",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/7 - Hands-on with Kubernetes.md",
+    "Assets/Pasted image 20250602190719.png",
+    "Assets/Pasted image 20250602190400.png",
     "Notes/4 - Container Security/3 - Intro to Kubernetes/5 - Kubectl to the Rescue.md",
-    "Assets/Pasted image 20250602183542.png",
+    "Assets/Pasted image 20250602185613.png",
+    "Notes/4 - Container Security/3 - Intro to Kubernetes/4 -Kubernetes Configuration.md",
     "Notes/4 - Container Security/3 - Intro to Kubernetes/3 -Kubernetes Landscape.md",
     "Notes/4 - Container Security/3 - Intro to Kubernetes/2 -Kubernetes Architecture.md",
+    "Assets/Pasted image 20250602185008.png",
+    "Assets/Pasted image 20250602183542.png",
     "Notes/4 - Container Security/3 - Intro to Kubernetes/1 -Kubernetes 101.md",
     "Assets/Pasted image 20250602182113.png",
     "Assets/Pasted image 20250602181951.png",
-    "Assets/Pasted image 20250602181756.png",
-    "Assets/Pasted image 20250602181042.png",
-    "Assets/Pasted image 20250602180940.png",
     "Notes/4 - Container Security/2 - Intro do Docker/5 - Intro to the Docker Socket.md",
-    "Assets/Pasted image 20250602180651.png",
-    "Assets/Pasted image 20250602180111.png",
     "Notes/4 - Container Security/2 - Intro do Docker/2 - Running Your First Container.md",
     "Notes/4 - Container Security/3 - Intro to Kubernetes/Untitled",
     "Notes/4 - Container Security/3 - Intro to Kubernetes",
     "Notes/4 - Container Security/2 - Intro do Docker/3 -Intro to Dockerfiles.md",
     "Notes/4 - Container Security/2 - Intro do Docker/1 - Basic Docker Syntax.md",
-    "Assets/Pasted image 20250602173213.png",
-    "Assets/Pasted image 20250602173141.png",
     "Notes/4 - Container Security/2 - Intro do Docker/4 - Intro to Docker Compose.md",
     "Notes/4 - Container Security/1 - Intro to Containerisation/4 - How does Containerisation Work?.md",
     "Notes/4 - Container Security/2 - Intro do Docker",
@@ -223,9 +226,6 @@
     "Notes/2 - Security of the Pipeline/1 -Pipeline Automation/Continuous Integration and Delivery.md",
     "Notes/2 - Security of the Pipeline/1 -Pipeline Automation/🔐 DevSecOps Pipeline Definition.md",
     "Notes/1 -Secure Software Development/SSDLC/Threat Modelling.md",
-    "Notes/Pipeline Automation/Introduction.md",
-    "Notes/1 -Secure Software Development/SSDLC/SSDLC Methodologies.md",
-    "Notes/1 -Secure Software Development/SSDLC/Risk Assessment.md",
     "Untitled.canvas",
     "Notes/2 - Security of the Pipeline/1 -Pipeline Automation"
   ]
