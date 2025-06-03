@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/3 - Security in the Pipeline/1 - Dependency Management/4 - Securing Internal Dependencies.md",
+                "file": "Notes/3 - Security in the Pipeline/1 - Dependency Management/5 - Theory of a Dependency Confusion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Securing Internal Dependencies"
+              "title": "5 - Theory of a Dependency Confusion"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "584c4d534fa56010",
@@ -160,29 +161,42 @@
               "icon": "clock",
               "title": "Chronology"
             }
+          },
+          {
+            "id": "96eec143a8e89c70",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {},
+              "icon": "clock",
+              "title": "Chronology"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 416.5
+    "width": 263.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "chronology:Open Chronology": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "chronology:Open Chronology": false
     }
   },
   "active": "98d422d934975649",
   "lastOpenFiles": [
-    "Notes/3 - Security in the Pipeline/1 - Dependency Management/3 - Securing External Dependencies.md",
+    "Assets/Pasted image 20250603215528.png",
     "Notes/3 - Security in the Pipeline/1 - Dependency Management/4 - Securing Internal Dependencies.md",
+    "Notes/3 - Security in the Pipeline/1 - Dependency Management/5 - Theory of a Dependency Confusion.md",
+    "Notes/3 - Security in the Pipeline/1 - Dependency Management/3 - Securing External Dependencies.md",
     "Notes/3 - Security in the Pipeline/1 - Dependency Management/2 - Internal vs External.md",
     "Notes/3 - Security in the Pipeline/1 - Dependency Management/1 - What are dependencies?.md",
     "Assets/Pasted image 20250603194234.png",
@@ -224,8 +238,6 @@
     "Notes/2 - Security of the Pipeline/2 -Source Code Security/The Git, The Branch and The Ugly.md",
     "Notes/2 - Security of the Pipeline/2 -Source Code Security/Insufficient Credential Hygiene.md",
     "Notes/2 - Security of the Pipeline/2 -Source Code Security/Cloud Based Version Control.md",
-    "Notes/2 - Security of the Pipeline/2 -Source Code Security/Version Control Concepts.md",
-    "Notes/2 - Security of the Pipeline/1 -Pipeline Automation/Environments.md",
     "Notes/2 - Security of the Pipeline/2 -Source Code Security",
     "Untitled.canvas"
   ]
