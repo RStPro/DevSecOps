@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 ## Staging a Dependency Confusion Attack
+=======
+Dependency Confusion is a vulnerability that can exist if our organisation uses internal dependencies that are managed through a dependency manager. In short, a race condition can be created by an attacker that could lead to a malicious dependency being used instead of the internal one. In this task, we will look into the theory of a Dependency Confusion vulnerability before practically exploiting one in the next task.
+
+Staging a Dependency Confusion Attack
+>>>>>>> 8a6e9594a5420c9ca2d32bd80f56bb17653881f7
 
 All an attacker really needs to stage an internal dependency attack is the name of one of your internal dependencies. While this might seem like a challenge, it happens more frequently than you would expect:
 
@@ -7,9 +13,15 @@ All an attacker really needs to stage an internal dependency attack is the name 
 
 Once an attacker learns the name of an internal dependency, they can attempt to host a package with a similar name on one of the external package repos but with a higher version number. This will force any system that attempts to build the application and install the dependency to get confused between the internal and external package, and if the external one is chosen, the attacker's dependency confusion attack will succeed. The full attack is shown in the diagram below:
 
+<<<<<<< HEAD
 ![[Pasted image 20250604195028.png]]
 
 ## Considerations
+=======
+![[Pasted image 20250603215528.png]]
+
+Considerations
+>>>>>>> 8a6e9594a5420c9ca2d32bd80f56bb17653881f7
 
 There are a couple of things that should be kept in mind:
 
